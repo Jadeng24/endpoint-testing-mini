@@ -157,7 +157,6 @@ Response: Will return any students whose name contains/matches the string of let
 GET - Students By Grade
 
 * Response: Returns all students whose grade matches query parameter.
-
 *Test for the following:*
 
 * Status code should be 200.
